@@ -1,0 +1,11 @@
+{
+  "name": "ConnectSphere",
+  "description": "A responsive social networking platform featuring real-time messaging, voice/video calls, live streaming, interactive communities, and an AI-moderated content feed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
